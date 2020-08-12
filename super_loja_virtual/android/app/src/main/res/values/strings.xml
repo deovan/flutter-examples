@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Super loja virtual</string>
+
+    <string name="facebook_app_id">719676388816480</string>
+
+    <string name="fb_login_protocol_scheme">fb719676388816480</string>
+</resources>
